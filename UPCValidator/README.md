@@ -1,3 +1,5 @@
+#UPC Validator
+
 Most goods sold in U.S. and Canadian stores are marked with a Universal Product Code (UPC).
 The meanings of the digits underneath the bar code (from left to right) are:
 • First digit: type of item,
