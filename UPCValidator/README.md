@@ -42,3 +42,5 @@ You can also get more UPC code from your own kitchen items.
 HINT 1: You can implement the division operation using repeated subtraction.
 HINT 2: To calculate 3 × Z, you can do so using only one ADD instruction with LSL#1 shift.
 HINT 3: To load a byte to a register, use LDRB not LDR.
+
+![Flowchart](https://github.com/Guppster/Assembly/blob/master/UPCValidator/UPC%20Validator%20flowchart.png?raw=true)
